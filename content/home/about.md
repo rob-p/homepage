@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+   "Scalable Algorithms and Data Structures for Indexing, Searching and Analyzing High-throughput Genomic Data",
+   "Algorithms for Inferring and Comparing Biological Networks",
+   "Network Evolution & Systems Biology"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "Postdoctoral Research Associate"
+  institution = "Department of Computational Biology, Carnegie Mellon University"
+  year = 2012-2014
+  
+[[education.courses]]
+  course = "PhD in Computer Science"
+  institution = "University of Maryland, College Park"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Computer Science"
+  institution = "University of Maryland, College Park"
+  year = 2006
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Rob Patro is an assistant professor in the Computer Science department at Stony Brook University. Previously, I was a postdoctoral research associate working with professor Carl Kingsford in the Lane Center for computational biology at Carnegie Mellon University. I obtained my PhD in Computer Science at the University of Maryland, College Park, and defended my dissertation, Computationally Comparing Biological Networks and Reconstructing Their Evolution. My main academic interests include computational biology and bioinformatics, machine learning, programming languages, computer graphics, scientific visualization and parallel computation. I also have recreational interests in math, physics, music, politics and video games. While at Maryland, I've also had the pleasure of working closely with professor Amitabh Varshney on some problems relating to computer graphics and scientific visualization.
