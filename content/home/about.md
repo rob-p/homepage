@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "Postdoctoral Research Associate"
   institution = "Department of Computational Biology, Carnegie Mellon University"
-  year = 2012-2014
+  year = 2014
   
 [[education.courses]]
   course = "PhD in Computer Science"
